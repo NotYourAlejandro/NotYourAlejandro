@@ -2,7 +2,7 @@
 
 ### Hi there 👋 ###
 
-🎓 Currently, I am a Computer Science student at Pima Community College.
+🎓 Currently, I am a Computer Science student at Pima Community College. I am currently exploring embedded programming, and am actively working on a remote laser pointer program!
 
 ## My Toolkit ##
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=30/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=30/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" class="white" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=30/>
