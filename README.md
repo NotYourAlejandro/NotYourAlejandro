@@ -4,13 +4,8 @@
 
 🎓 Currently, I am a Computer Science student at Pima Community College.
 
-## Languages and Tools I Use ##
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" class="white" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=30/>  <img src="" width=30/>
-
-## Languages I am Currently Learning ##
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=30/>
-<img src="" width=30/>
-<img src="" width=30/>
+## My Toolkit ##
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=30/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=30/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" class="white" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=30/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=30/>  <img src="" width=30/>
 
 ## Profile Stats ##
 
