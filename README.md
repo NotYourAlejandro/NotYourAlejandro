@@ -1,4 +1,6 @@
-\#!/usr/bin/env bash
+```bash
+#!/usr/bin/env bash
+```
 
 # Welcome to my GitHub page!
 
