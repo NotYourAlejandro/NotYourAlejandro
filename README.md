@@ -15,4 +15,4 @@ My name is Alex, I've been a programmer/software dev for ~8 years, and I'm a cur
 
 ## My Projects
 
-Unfortunately, most of my projects are private work so you won't see much here. I'll try to be more proactive in the future with publishing my work.
+Unfortunately, most of my projects are private work so you won't see much here.
